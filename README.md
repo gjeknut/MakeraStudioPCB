@@ -19,7 +19,7 @@ Before importing, inspect the Gerber files in a Gerber viewer. Make sure tracks,
 2. Create a new CNC project.
 <img width="259" height="54" alt="image" src="https://github.com/user-attachments/assets/3e03c608-a197-41e1-a37c-8c42968fce76" />
 3. Choose 2D Vector Machining
-<img width="835" height="680" alt="image" src="https://github.com/user-attachments/assets/7794c5bd-57a5-4709-a180-ac1dc7092948" />
+<img width="835" height="680" alt="Pasted 2026-09-21 at 4 43 23 PM" src="https://github.com/user-attachments/assets/15f552b6-e936-4133-bcd4-e736b0bc1973" />
 
 
 5. Select your machine.

@@ -18,6 +18,7 @@ Before importing, inspect the Gerber files in a Gerber viewer. Make sure tracks,
 1. Open Makera Studio.
 2. Create a new CNC project.
 <img width="259" height="54" alt="image" src="https://github.com/user-attachments/assets/3e03c608-a197-41e1-a37c-8c42968fce76" />
+3. Choose ![Uploading image.png…]()
 
 4. Select your machine.
 5. Set the stock dimensions:

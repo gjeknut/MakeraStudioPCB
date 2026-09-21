@@ -22,11 +22,13 @@ Before importing, inspect the Gerber files in a Gerber viewer. Make sure tracks,
 <img width="835" height="680" alt="Pasted 2026-09-21 at 4 43 23 PM" src="https://github.com/user-attachments/assets/15f552b6-e936-4133-bcd4-e736b0bc1973" />
 
 
-5. Select your machine.
-6. Set the stock dimensions:
+5. Set PCB as your material and select correct size
+   <img width="1004" height="801" alt="Pasted 2026-09-21 at 4 53 11 PM" src="https://github.com/user-attachments/assets/6bf36c4c-81d9-44a6-a684-2171144a71a6" />
+
+7. Set the stock dimensions:
    - Width and height of the PCB blank
    - PCB thickness
-7. Choose a work origin that will be easy to locate on the physical PCB blank.
+8. Choose a work origin that will be easy to locate on the physical PCB blank.
 
 ## 2. Import the PCB Design
 

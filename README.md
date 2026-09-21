@@ -21,8 +21,16 @@ Before importing, inspect the Gerber files in a Gerber viewer. Make sure tracks,
 <img width="300" height="54" alt="image" src="https://github.com/user-attachments/assets/3e03c608-a197-41e1-a37c-8c42968fce76" />
 
 3. Choose 2D Vector Machining
+<table>
+  <tr>
+    <td>
+      <img width="300" alt="Pasted 2026-09-21 at 4 43 23 PM" src="https://github.com/user-attachments/assets/15f552b6-e936-4133-bcd4-e736b0bc1973" />
+    </td>
+  </tr>
+</table>
 
-<img width="300" alt="Pasted 2026-09-21 at 4 43 23 PM" src="https://github.com/user-attachments/assets/15f552b6-e936-4133-bcd4-e736b0bc1973" />
+
+
 
 
 5. Set PCB as your material and select correct size

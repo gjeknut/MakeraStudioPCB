@@ -18,13 +18,15 @@ Before importing, inspect the Gerber files in a Gerber viewer. Make sure tracks,
 1. Open Makera Studio.
 2. Create a new CNC project.
 <img width="259" height="54" alt="image" src="https://github.com/user-attachments/assets/3e03c608-a197-41e1-a37c-8c42968fce76" />
-3. Choose ![Uploading image.png…]()
+3. Choose 2D Vector Machining
+<img width="835" height="680" alt="image" src="https://github.com/user-attachments/assets/7794c5bd-57a5-4709-a180-ac1dc7092948" />
 
-4. Select your machine.
-5. Set the stock dimensions:
+
+5. Select your machine.
+6. Set the stock dimensions:
    - Width and height of the PCB blank
    - PCB thickness
-6. Choose a work origin that will be easy to locate on the physical PCB blank.
+7. Choose a work origin that will be easy to locate on the physical PCB blank.
 
 ## 2. Import the PCB Design
 
